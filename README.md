@@ -19,8 +19,11 @@ Format Masukan:
 Baris pertama berisi sebuah bilangan bulat T yang menyatakan banyaknya kasus uji. Baris-baris berikutnya berisi T kasus uji, yang masing-masing diberikan dalam format berikut ini:
 
 N M
+
 A[0] A[1] .. A[N-1]
+
 B[0] B[1] .. B[N-1]
+
 C[0] C[1] .. C[M-1]
 
 Format Keluaran:
