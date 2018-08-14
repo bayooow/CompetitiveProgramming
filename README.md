@@ -1,6 +1,7 @@
 # CompetitiveProgramming - Pasangan Terbaik (GEMASTIK 10)
 
 Deskripsi:
+
 Pak Chanek memiliki tiga buah array bilangan bulat: A dan B yang masing-masing memiliki N elemen, dan C yang memiliki M elemen. Untuk kemudahan, anggap bahwa indeks elemen-elemen array dimulai dari 0.
 
 Diberikan sepasang bilangan bulat i dan j, Pak Chanek mendefinisikan f(i,j) sebagai berikut:
@@ -16,7 +17,10 @@ atau dengan kata lain, nilai terkecil dari f(i,j) untuk semua kemungkinan pasang
 Bantulah Pak Chanek menghitung nilai tersebut!
 
 
+
+
 Format Masukan:
+
 Baris pertama berisi sebuah bilangan bulat T yang menyatakan banyaknya kasus uji. Baris-baris berikutnya berisi T kasus uji, yang masing-masing diberikan dalam format berikut ini:
 
 N M
@@ -27,12 +31,19 @@ B[0] B[1] .. B[N-1]
 
 C[0] C[1] .. C[M-1]
 
+
+
+
+
 Format Keluaran:
+
 Untuk setiap kasus uji, keluarkan sebuah baris berisi nilai dari min0≤i,j<Nf(i,j).
 
 
 
+
 Contoh Masukan:
+
 2
 
 4 2
@@ -52,9 +63,11 @@ Contoh Masukan:
 93 2 38
 
 
+
 Contoh Keluaran:
 161
 171
+
 
 
 Penjelasan:
