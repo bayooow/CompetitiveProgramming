@@ -73,6 +73,7 @@ Contoh Keluaran:
 
 
 Penjelasan:
+
 Pada contoh pertama, pasangan (i,j) yang menyebabkan f(i,j) minimum adalah (i=0,j=1). Nilai dari f(0,1) adalah:
 
 
